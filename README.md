@@ -21,8 +21,7 @@ And install emj-boilerplate's dependencies with npm
 
 To run this project, you will need to add the following environment variables to your .env file
 
-**UPDATE**
-
+`MONGO_URI`: MongoDB connection string
 ## Run Locally
 
 Start the server
